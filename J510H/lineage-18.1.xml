@@ -25,7 +25,7 @@
         revision="lineage-18.1"
         />
     <project
-        path="kernel/samsung/msm8916-common"
+        path="kernel/samsung/msm8916"
         name="Interprether/kernel_samsung_j5xn3g"
         remote="github"
         revision="lineage-19.1"
