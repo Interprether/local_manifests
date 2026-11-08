@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <remote  name="Interprether"
+             fetch="git@github.com"
+             revision="lineage-18.1" />
+
+
+
+    <project
+        path="device/samsung/j5xn3g"
+        name="Interprether/device_samsung_j5xn3g"
+        remote="github"
+        revision="lineage-18.1"
+        />
+    <project
+        path="device/samsung/j5x-common"
+        name="Interprether/android_device_samsung_j5x-common"
+        remote="github"
+        revision="lineage-18.1"
+        />
+    <project
+        path="device/samsung/msm8916-common"
+        name="Interprether/android_device_samsung_msm8916-common"
+        remote="github"
+        revision="lineage-18.1"
+        />
+    <project
+        path="kernel/samsung/msm8916-common"
+        name="Interprether/kernel_samsung_j5xn3g"
+        remote="github"
+        revision="lineage-19.1"
+        />
+    <project
+        path="device/samsung/qcom-common"
+        name="LineageOS/android_device_samsung_qcom-common"
+        remote="github"
+        revision="lineage-18.1"
+        />
+    <project
+        path="hardware/samsung"
+        name="LineageOS/android_hardware_samsung"
+        remote="github"
+        rebision="lineage-18.1"
+        />
+    <project
+        path="external/sony/boringssl-compat"
+        name="LineageOS/android_external_sony_boringssl-compat"
+        remote="github"
+        revision="lineage-18.1"
+        />
+    <project
+        path="prebuilts/gcc/linux-x86/arm/arm-eabi-7.2"
+        name="Galaxy-MSM8916/android-prebuilts-gcc-linux-x86-arm-arm-eabi-7.2"
+        remote="github"
+        revision="master"
+        />
+    <project
+        path="vendor/samsung/j5xn3g"
+        name="Interprether/vendor_samsung_j5xn3g"
+        remote="github"
+        revision="lineage-18.1"
+        />
+    <project
+        path="vendor/samsung/j5x-common"
+        name="Interprether/vendor_samsung_j5x-common"
+        remote="github"
+        revision="lineage-18.1"
+        />
+    <project
+        path="vendor/samsung/msm8916-common"
+        name="Interprether/vendor_samsung_msm8916-common"
+        remote="github"
+        revision="lineage-18.1"
+        />
+
+    </manifest>
