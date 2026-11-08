@@ -73,4 +73,18 @@
         revision="lineage-18.1"
         />
 
+
+
+
+
+
+
+    <remove-project name="LineageOS/android_hardware_qcom_display" />
+
+    <project
+        name="Interprether/android_hardware_qcom-caf_msm8916_display"
+        path="hardware/qcom-caf/msm8916/display"
+        remote="github"
+        revision="lineage-18.1" />
+
     </manifest>
